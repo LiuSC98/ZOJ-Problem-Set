@@ -1,2 +1,2 @@
 # ZOJ-Problem-Set
-problems from zoj.pintia.cn
+problems from [ZOJ](https://zoj.pintia.cn/)
